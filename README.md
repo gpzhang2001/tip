@@ -39,5 +39,5 @@
 
 ## network
 
-[params](./params/params.md)
+[network](./network/network.md)
 
