@@ -35,13 +35,9 @@
 ## Params
 
 深度学习模型中的参数量、运算量、FLOPS、FLOPs
-
-<<<<<<< HEAD
 [params](./params.params.md)
 
 ## network
 
-[network](./network/network.md)
-=======
 [params](./params/params.md)
->>>>>>> origin/main
+
