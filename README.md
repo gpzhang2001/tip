@@ -36,7 +36,7 @@
 
 深度学习模型中的参数量、运算量、FLOPS、FLOPs
 
-[params](./params.params.md)
+[params](./params/params.md)
 
 ## network
 
